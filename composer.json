@@ -1,5 +1,5 @@
 {
-    "name": "eluceo/ical",
+    "name": "deltasystems/ical",
     "description": "The eluceo/iCal package offers an abstraction layer for creating iCalendars. You can easily create iCal files by using PHP objects instead of typing your *.ics file by hand. The output will follow RFC 5545 as best as possible.",
     "license": "MIT",
     "keywords": [
